@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "embaralha_palavra"
-version = "0.1.0"
+version = "0.1.1"
 description = "Um jogo divertido"
 authors = ["Marco André Mendes <marcoandre@gmail.com>"]
 
